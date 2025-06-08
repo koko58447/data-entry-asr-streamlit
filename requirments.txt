@@ -1,0 +1,5 @@
+XlsxWriter
+pymongo
+speechrecognition
+pydub
+audio-recorder-streamlit
